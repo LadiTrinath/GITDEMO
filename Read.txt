@@ -5,3 +5,4 @@ feature_1
 feature_2
 
 Final_Commit_1
+Final_Commit_2
