@@ -9,5 +9,9 @@ x=2-1
 
 # division
 
+
 #percentage
+
+
+# Multiplication
 
