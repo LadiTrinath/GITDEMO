@@ -6,3 +6,4 @@ feature_2
 
 Final_Commit_1
 Final_Commit_2
+Final_Commit_3
